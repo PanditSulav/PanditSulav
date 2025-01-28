@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sulav pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulav pandit" height="30" width="40" /></a>
-<a href="https://fb.com/sulav pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sulav pandit" height="30" width="40" /></a>
+<a href="https://fb.com/sulavpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sulav pandit" height="30" width="40" /></a>
 <a href="https://instagram.com/sulav.pandit.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulav.pandit.96" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/salamander819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salamander819" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sulav🇳🇵" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sulav🇳🇵" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
